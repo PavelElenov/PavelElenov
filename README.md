@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pavel-elenov-a3478926a/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" alt="#5766" height="25" width="30" /></a>
+<a href="https://www.linkedin.com/in/pavel-elenov-a3478926a/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" alt="#5766" height="30" width="40" /></a>
 <a href="https://discord.gg/#5766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5766" height="30" width="40" /></a>
 </p>
 
