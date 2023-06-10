@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pavel Elenov</h1>
-<h3 align="center">I'm Junior Full Stack Engineer from Bulgaria.</h3>
+<h3 align="center">I'm Junior Front-End Developer from Bulgaria.</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelelenov&label=Profile%20views&color=0e75b6&style=flat" alt="pavelelenov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [CarsWorld](https://github.com/PavelElenov/CarsWorld-React)
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **pavelelenov@gmail.com**
 
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pavel-elenov-a3478926a/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" alt="#5766" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/pavel-elenov-a3478926a/" target="blank"><img align="center" src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/28/9d/a1289d6d-6c35-88c5-6e22-6abc35dab836/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1024x1024.jpg" alt="#5766" height="30" width="30" /></a>
 <a href="https://discord.gg/#5766" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" alt="#5766" height="30" width="30" /></a>
 </p>
 
