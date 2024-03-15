@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavel Elenov</h1>
 <h3 align="center">I'm Junior Front-End Developer from Bulgaria.</h3>
 <img align="right" width="400" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
-<p align="left"> <img src="[https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75](https://scontent.cdninstagram.com/v/t51.29350-15/361146473_2817775115030876_8828694128649833798_n.jpg?stp=dst-jpg_e35_p1080x1080&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MTguc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_ohc=95TQvpTElkoAX_M54uu&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzE1MDkwMzU0NTA5MTcxODkyOA%3D%3D.2-ccb7-5&oh=00_AfCnvIwVD6PEtYqI90jidKy35WqwSrLWdcVM61NlBICrhQ&oe=65FA99BF&_nc_sid=10d13b)" alt="pavelelenov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelelenov&label=Profile%20views&color=0e75b6&style=flat" alt="pavelelenov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
