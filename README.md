@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavel Elenov</h1>
-<h3 align="center">I'm Junior Front-End Developer from Bulgaria.</h3>
+<h3 align="center">I'm a Front-End Developer from Bulgaria.</h3>
 <img align="right" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelelenov&label=Profile%20views&color=0e75b6&style=flat" alt="pavelelenov" /> </p>
 
